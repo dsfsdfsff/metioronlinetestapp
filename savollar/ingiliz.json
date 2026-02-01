@@ -1,0 +1,203 @@
+[
+  {
+    "savol": "Qaysi so'z 'Apple' (olma) so'zi uchun to'g'ri artikl hisoblanadi?",
+    "javoblar": ["A", "An", "The", "No article"],
+    "javobi": "1"
+  },
+  {
+    "savol": "I ... a student. (Nuqtalar o'rniga mos keladiganini tanlang)",
+    "javoblar": ["is", "are", "am", "be"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Ingliz tilida haftaning birinchi kuni qaysi deb hisoblanadi (asosan)?",
+    "javoblar": ["Monday", "Sunday", "Friday", "Saturday"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Qaysi rang 'Sariq' deb tarjima qilinadi?",
+    "javoblar": ["Green", "Blue", "Yellow", "Red"],
+    "javobi": "2"
+  },
+  {
+    "savol": "'Go' (bormoq) fe'lining o'tgan zamon shakli (Past Simple) qaysi?",
+    "javoblar": ["Goed", "Went", "Gone", "Going"],
+    "javobi": "1"
+  },
+  {
+    "savol": "'Book' so'zining ko'plik shakli qaysi?",
+    "javoblar": ["Bookes", "Books", "Booki", "Beek"],
+    "javobi": "1"
+  },
+  {
+    "savol": "She ... her homework every day. (U har kuni uy vazifasini bajaradi)",
+    "javoblar": ["do", "does", "doing", "done"],
+    "javobi": "1"
+  },
+  {
+    "savol": "'Beautiful' so'zining qarama-qarshi ma'nosi (antonym) qaysi?",
+    "javoblar": ["Pretty", "Ugly", "Nice", "Good"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Yilning qaysi oyi doim 'June' (Iyun) dan keyin keladi?",
+    "javoblar": ["May", "July", "August", "September"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Ilovangizda 'Exit' tugmasi nima degani?",
+    "javoblar": ["Kirish", "Chiqish", "Saqlash", "O'chirish"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Ingliz tilida necha xil unli (vowel) harflar bor?",
+    "javoblar": ["3 ta", "5 ta", "7 ta", "21 ta"],
+    "javobi": "1"
+  },
+  {
+    "savol": "'Cat' (mushuk) so'ziga mos keladigan olmoshni toping.",
+    "javoblar": ["He", "She", "It", "They"],
+    "javobi": "2"
+  },
+  {
+    "savol": "They ... football right now. (Hozirgi davomli zamon)",
+    "javoblar": ["is playing", "are playing", "play", "played"],
+    "javobi": "1"
+  },
+  {
+    "savol": "'Thank you' xabariga qanday javob qaytariladi?",
+    "javoblar": ["No problem", "You're welcome", "Goodbye", "Excuse me"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Qaysi son 'Twelve' (o'n ikki) deb yoziladi?",
+    "javoblar": ["2", "12", "20", "22"],
+    "javobi": "1"
+  },
+  {
+    "savol": "'Table' (stol) so'zining bosh harfini toping.",
+    "javoblar": ["T", "S", "M", "K"],
+    "javobi": "0"
+  },
+  {
+    "savol": "We eat our breakfast in the ... (Biz nonushtani ... qilamiz)",
+    "javoblar": ["Morning", "Evening", "Night", "Afternoon"],
+    "javobi": "0"
+  },
+  {
+    "savol": "'Mother's sister' (Onangizning singlisi) kim bo'ladi?",
+    "javoblar": ["Uncle", "Aunt", "Brother", "Cousin"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Qaysi biri meva (fruit) emas?",
+    "javoblar": ["Banana", "Orange", "Potato", "Pear"],
+    "javobi": "2"
+  },
+  {
+    "savol": "'Always' so'zi o'zbek tilida nima degani?",
+    "javoblar": ["Hech qachon", "Ba'zan", "Har doim", "Ertaga"],
+    "javobi": "2"
+  },
+
+  {
+    "savol": "My father ... at the hospital. (Uchinchi shaxs birlik uchun mos fe'lni tanlang)",
+    "javoblar": ["work", "works", "working", "worker"],
+    "javobi": "1"
+  },
+  {
+    "savol": "'Better' so'zining boshlang'ich shakli (positive degree) qaysi?",
+    "javoblar": ["Good", "Best", "Well", "Bad"],
+    "javobi": "0"
+  },
+  {
+    "savol": "Look ... the window! (Oynaga qara! Predlogni tanlang)",
+    "javoblar": ["at", "on", "through", "in"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Ingliz tilida qaysi so'z doimo bosh harf bilan yoziladi?",
+    "javoblar": ["I (men)", "You", "We", "They"],
+    "javobi": "0"
+  },
+  {
+    "savol": "I have been living here ... 2010. (Vaqtni ko'rsatuvchi predlog)",
+    "javoblar": ["for", "since", "during", "at"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Qaysi so'z 'Fast' (tez) so'zining sinonimi hisoblanadi?",
+    "javoblar": ["Slow", "Quick", "Heavy", "Strong"],
+    "javobi": "1"
+  },
+  {
+    "savol": "If it rains, I ... at home. (Shart ergash gap - 1-tur)",
+    "javoblar": ["stay", "will stay", "stayed", "would stay"],
+    "javobi": "1"
+  },
+  {
+    "savol": "'Mouse' (sichqon) so'zining ko'plik shakli qaysi?",
+    "javoblar": ["Mouses", "Mice", "Mices", "Mouse"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Which one is an irregular verb? (Qaysi biri noto'g'ri fe'l?)",
+    "javoblar": ["Play", "Visit", "Eat", "Listen"],
+    "javobi": "2"
+  },
+  {
+    "savol": "I am interested ... learning English. (Predlogni tanlang)",
+    "javoblar": ["at", "on", "in", "about"],
+    "javobi": "2"
+  },
+  {
+    "savol": "What is the opposite of 'Rich' (boy)?",
+    "javoblar": ["Poor", "Happy", "Sad", "Young"],
+    "javobi": "0"
+  },
+  {
+    "savol": "How ... sugar do you want in your tea? (Sanalmaydigan otlar uchun)",
+    "javoblar": ["many", "much", "few", "any"],
+    "javobi": "1"
+  },
+  {
+    "savol": "The sun ... in the East. (Tabiat hodisasi uchun doimiy zamon)",
+    "javoblar": ["rise", "rises", "rising", "rose"],
+    "javobi": "1"
+  },
+  {
+    "savol": "'To look for' frazali fe'lining ma'nosi nima?",
+    "javoblar": ["Ko'rinmoq", "Qidirmoq", "O'xshamoq", "G'amxo'rlik qilmoq"],
+    "javobi": "1"
+  },
+  {
+    "savol": "This is the ... book I have ever read. (Sifatning orttirma darajasi)",
+    "javoblar": ["good", "better", "best", "goodest"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Would you like ... coffee? (Taklif ma'nosida)",
+    "javoblar": ["any", "some", "a", "an"],
+    "javobi": "1"
+  },
+  {
+    "savol": "He is afraid ... spiders. (Predlogni tanlang)",
+    "javoblar": ["with", "of", "from", "at"],
+    "javobi": "1"
+  },
+  {
+    "savol": "I ... my keys yesterday. (O'tgan zamon shakli)",
+    "javoblar": ["lose", "lost", "losing", "looses"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Which suffix makes a noun from the verb 'Teach'?",
+    "javoblar": ["-ing", "-er", "-ment", "-ness"],
+    "javobi": "1"
+  },
+  {
+    "savol": "A person who flies a plane is a ...",
+    "javoblar": ["Driver", "Pilot", "Doctor", "Sailor"],
+    "javobi": "1"
+  }
+]

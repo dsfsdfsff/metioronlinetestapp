@@ -1,0 +1,203 @@
+[
+  {
+    "savol": "Dunyo tarixidagi birinchi yozma qonunlar to‘plami qaysi hukmdorga tegishli?",
+    "javoblar": ["Yuliy Sezar", "Hammurapi", "Aleksandr Makedonskiy", "Kir II"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Amir Temur nechanchi yilda 'Sohibqiron' unvonini olgan va davlatga asos solgan?",
+    "javoblar": ["1360-yil", "1370-yil", "1385-yil", "1402-yil"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Qadimgi Misr piramidalari ichida eng kattasi qaysi?",
+    "javoblar": ["Xafra", "Mikerin", "Xops (Xeops)", "Joser"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Mirzo Ulug‘bek asos solgan rasadxona (observatoriya) qaysi shaharda joylashgan?",
+    "javoblar": ["Buxoro", "Xiva", "Samarqand", "Andijon"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Birinchi jahon urushi boshlanishiga nima sabab bo'lgan?",
+    "javoblar": ["Napoleon yurishlari", "Frants Ferdinandning o'ldirilishi", "Gitlerning Polshaga hujumi", "Atom bombasi portlashi"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Buyuk ipak yo‘li atamasi fanga birinchi marta kim tomonidan kiritilgan?",
+    "javoblar": ["Marko Polo", "Ibn Battuta", "Ferdinand fon Rixtgofen", "Xuan Szan"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Qaysi jangdan so'ng Amir Temur 'Yevropaning xaloskori' deb atala boshlagan?",
+    "javoblar": ["Kondurcha jangi", "Anqara jangi (1402)", "Terek daryosi bo'yidagi jang", "Loy jangi"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Insoniyat tarixida 'Buyuk geografik kashfiyotlar' davri qaysi asrlarni o'z ichiga oladi?",
+    "javoblar": ["X-XII asrlar", "XV-XVII asrlar", "XVIII-XIX asrlar", "XX asr"],
+    "javobi": "1"
+  },
+  {
+    "savol": "O'zbekiston hududida islom dini nechanchi asrdan tarqala boshlagan?",
+    "javoblar": ["VI asr", "VII-VIII asrlar", "X asr", "XII asr"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Napoleon Bonapart qaysi jangda uzil-kesil mag'lubiyatga uchragan?",
+    "javoblar": ["Borodino", "Waterloo (Vaterloo)", "Austerlits", "Leyptsig"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Qadimgi Yunonistonda 'Tarix otasi' deb kim tan olingan?",
+    "javoblar": ["Aristotel", "Sokrat", "Gerodot", "Platon"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Turkiston general-gubernatorligi qaysi yili tashkil etilgan?",
+    "javoblar": ["1865-yil", "1867-yil", "1873-yil", "1881-yil"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Ikkinchi jahon urushi qachon yakunlangan?",
+    "javoblar": ["1944-yil 9-may", "1945-yil 2-sentyabr", "1945-yil 9-may", "1946-yil 1-yanvar"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Abu Ali ibn Sino qaysi davlatda vazirlik lavozimida ham ishlagan?",
+    "javoblar": ["Seldjuqiylar", "Somoniylar", "G'aznaviylar", "Qoraxoniylar"],
+    "javobi": "1"
+  },
+  {
+    "savol": "AQSH mustaqillik deklaratsiyasi qaysi yili qabul qilingan?",
+    "javoblar": ["1776-yil", "1789-yil", "1812-yil", "1861-yil"],
+    "javobi": "0"
+  },
+  {
+    "savol": "Jaloliddin Manguberdi qaysi sulolaning so'nggi hukmdori edi?",
+    "javoblar": ["Saljuqiylar", "Xorazmshohlar", "Temuriylar", "Shayboniylar"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Hindistonda 'Boburiylar sulolasi'ga (Buyuk Mo'g'ullar) kim asos solgan?",
+    "javoblar": ["Akbarshoh", "Zahiriddin Muhammad Bobur", "Humoyun mirzo", "Shoh Jahon"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Spartak qo'zg'oloni qayerda bo'lib o'tgan?",
+    "javoblar": ["Qadimgi Gretsiya", "Qadimgi Rim", "Fors davlati", "Misr"],
+    "javobi": "1"
+  },
+  {
+    "savol": "O'zbekiston Respublikasi Konstitutsiyasi birinchi marta nechanchi yilda qabul qilingan?",
+    "javoblar": ["1991-yil", "1992-yil", "1993-yil", "1990-yil"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Qadimgi Xitoy devorini qurishdan asosiy maqsad nima bo'lgan?",
+    "javoblar": ["Savdoni rivojlantirish", "Shimoliy ko'chmanchi qabilalardan himoyalanish", "Daryo suvini to'sish", "Aholini sanash"],
+    "javobi": "1"
+  },
+  
+  {
+    "savol": "Qadimgi Misrda 'O'liklar kitobi' nima haqida bo'lgan?",
+    "javoblar": ["Urush qoidalari", "Tibbiyot va dorilar", "Oxirat safari va duolar", "Yulduzlar xaritasi"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Xiva xonligida hukmronlik qilgan oxirgi sulola qaysi?",
+    "javoblar": ["Shayboniylar", "Ashtarxoniylar", "Qo'ng'irotlar", "Mang'itlar"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Buyuk Britaniyada 'Temir xonim' laqabi bilan tanilgan ayol bosh vazir kim edi?",
+    "javoblar": ["Yelizaveta II", "Margaret Tetcher", "Indira Gandi", "Angela Merkel"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Tarixdagi 'Buyuk Britaniya va Xitoy' o'rtasidagi urushlar nima deb ataladi?",
+    "javoblar": ["Tuz urushi", "Ipak urushi", "Afyun (Opium) urushlari", "Choy urushi"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Buyuk Fransuz inqilobi nechanchi yilda boshlangan?",
+    "javoblar": ["1776-yil", "1789-yil", "1804-yil", "1812-yil"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Amir Temur davlatida harbiy qo'shinning o'ng qanoti nima deb atalgan?",
+    "javoblar": ["Javang'ar", "Barang'ar", "G'ul", "Xiravul"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Qaysi hukmdor 'Xitoyning birinchi imperatori' hisoblanadi?",
+    "javoblar": ["Xuan Szan", "Sin Shi Xuandi", "Konfutsiy", "Kublayxon"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Leonardo da Vinchi qaysi tarixiy davrning buyuk vakili?",
+    "javoblar": ["O'rta asrlar", "Uyg'onish davri (Renessans)", "Antik davr", "Yangi davr"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Amir Olimxon qaysi davlatni boshqargan so'nggi hukmdor edi?",
+    "javoblar": ["Xiva xonligi", "Buxoro amirligi", "Qo'qon xonligi", "Oltin O'rda"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Qadimgi Rimda qul bo'la turib qo'zg'olon ko'targan mashhur gladiator kim?",
+    "javoblar": ["Gannibal", "Spartak", "Pompey", "Krass"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Birinchi marta atom bombasi qaysi shaharga tashlangan?",
+    "javoblar": ["Nagasaki", "Berlin", "Xirosima", "Tokio"],
+    "javobi": "2"
+  },
+  {
+    "savol": "BMT (Birlashgan Millatlar Tashkiloti) nechanchi yilda tashkil topgan?",
+    "javoblar": ["1918-yil", "1945-yil", "1950-yil", "1991-yil"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Qo'qon xonligidagi eng mashhur ayol shoira va malika kim edi?",
+    "javoblar": ["Zulfiya", "Nodira", "Uvaysiy", "Anbar Otin"],
+    "javobi": "1"
+  },
+  {
+    "savol": "SSSR (Sovet Ittifoqi) nechanchi yilda tarqalib ketgan?",
+    "javoblar": ["1989-yil", "1990-yil", "1991-yil", "1993-yil"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Yaponiyada hukmronlik qilgan jangchilar tabaqasi nima deb atalgan?",
+    "javoblar": ["Ritsarlar", "Samuraylar", "Vikinglar", "Yandjarlar"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Afrig'iylar sulolasi qaysi hududda hukmronlik qilgan?",
+    "javoblar": ["Buxoro", "Xorazm", "Samarqand", "Shosh"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Berlin devori nechanchi yilda qulagan?",
+    "javoblar": ["1985-yil", "1989-yil", "1991-yil", "1961-yil"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Napoleon Bonapart qayerda vafot etgan?",
+    "javoblar": ["Parijda", "Muqaddas Yelena orolida", "Korsikada", "Moskvada"],
+    "javobi": "1"
+  },
+  {
+    "savol": "O'rta asrlarda O'rta Osiyoda 'Ikkinchi muallim' deb kim e'tirof etilgan?",
+    "javoblar": ["Ibn Sino", "Abu Nasr Forobiy", "Beruniy", "Al-Xorazmiy"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Hindistonning 'Buyuk ruhi' (Mahatma) deb kimni atashgan?",
+    "javoblar": ["Javaharlal Neru", "Mahatma Gandi", "Akbarshoh", "Indira Gandi"],
+    "javobi": "1"
+  }
+]

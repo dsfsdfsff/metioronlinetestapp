@@ -1,0 +1,204 @@
+[
+  {
+    "savol": "Kompyuterning 'miyasi' deb qaysi qurilma ataladi?",
+    "javoblar": ["Operativ xotira", "Protsessor (CPU)", "Qattiq disk (HDD)", "Video karta"],
+    "javobi": "1"
+  },
+  {
+    "savol": "1 Kilobayt necha baytga teng?",
+    "javoblar": ["1000 bayt", "1024 bayt", "512 bayt", "2048 bayt"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Faqat kiritish qurilmalari ko'rsatilgan qatorni toping.",
+    "javoblar": ["Monitor, Printer", "Sichqoncha, Klaviatura", "Protsessor, Kolonka", "Skaner, Monitor"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Python dasturlash tilida ekranga ma'lumot chiqarish buyrug'i qaysi?",
+    "javoblar": ["input()", "scanf()", "print()", "echo"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Eng kichik axborot o'lchov birligi nima?",
+    "javoblar": ["Bayt", "Kilobayt", "Bit", "Megabayt"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Internet tarmog'ida ma'lumot uzatish protokoli qaysi?",
+    "javoblar": ["HTTP", "HTML", "JPEG", "MP3"],
+    "javobi": "0"
+  },
+  {
+    "savol": "Kompyuter o'chirilganda undagi barcha ma'lumotlar o'chib ketadigan xotira qaysi?",
+    "javoblar": ["Doimiy xotira (ROM)", "Tezkor xotira (RAM)", "Kesh xotira", "Fleshka"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Veb-sahifalar yaratish uchun ishlatiladigan til qaysi?",
+    "javoblar": ["C++", "HTML", "Pascal", "Assembly"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Microsoft Excel dasturining vazifasi nima?",
+    "javoblar": ["Matn tahrirlash", "Rasm chizish", "Elektron jadval bilan ishlash", "Prezentatsiya yaratish"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Brauzer nima?",
+    "javoblar": ["Antivirus dasturi", "Internet sahifalarini ko'rish dasturi", "Matn muharriri", "Operatsion tizim"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Windows, Linux, macOS bular nima?",
+    "javoblar": ["Dasturlash tillari", "Ilovalar", "Operatsion tizimlar", "Brauzerlar"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Algoritmning turlari qaysi qatorda to'g'ri ko'rsatilgan?",
+    "javoblar": ["Oddiy, Murakkab", "Chiziqli, Tarmoqlanuvchi, Takrorlanuvchi", "Matnli, Grafik", "Doimiy, Vaqtinchalik"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Ixtiyoriy faylni butunlay (korzinaga tushmasdan) o'chirish tugmalari qaysi?",
+    "javoblar": ["Delete", "Ctrl + Delete", "Shift + Delete", "Alt + F4"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Ma'lumotlar bazasini boshqarish tizimi qaysi?",
+    "javoblar": ["MS Word", "MS Access", "MS PowerPoint", "MS Paint"],
+    "javobi": "1"
+  },
+  {
+    "savol": "URL nima?",
+    "javoblar": ["Internet manzili", "Elektron pochta", "Kompyuter nomi", "Fayl kengaytmasi"],
+    "javobi": "0"
+  },
+  {
+    "savol": "Faylning kengaytmasi nima uchun xizmat qiladi?",
+    "javoblar": ["Fayl hajmini aniqlash uchun", "Fayl turini aniqlash uchun", "Faylni o'chirish uchun", "Faylni nusxalash uchun"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Spam nima?",
+    "javoblar": ["Foydali reklama", "Keraksiz yoki zararli xabarlar", "Virus turi", "Dasturlash xatosi"],
+    "javobi": "1"
+  },
+  {
+    "savol": "IP-manzil necha qismdan iborat bo'ladi?",
+    "javoblar": ["2 ta", "4 ta", "6 ta", "8 ta"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Adobe Photoshop qanday grafik muharrir?",
+    "javoblar": ["Vektorli", "Rastrli", "Matnli", "Uch o'lchamli"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Wi-Fi so'zining ma'nosi nima?",
+    "javoblar": ["Simsiz aniqlik", "Tezkor aloqa", "Global tarmoq", "Yashirin kod"],
+    "javobi": "0"
+  },
+  
+  {
+    "savol": "Dunyo bo'yicha birinchi dasturchi kim deb tan olingan?",
+    "javoblar": ["Bill Geyts", "Alan Tyuring", "Ada Lavleys", "Stiv Jobs"],
+    "javobi": "2"
+  },
+  {
+    "savol": "URL manzilidagi 'https://' qismining oxiridagi 's' harfi nimani anglatadi?",
+    "javoblar": ["System (Tizim)", "Secure (Xavfsiz)", "Speed (Tezlik)", "Server"],
+    "javobi": "1"
+  },
+  {
+    "savol": "QR-kod (Quick Response) texnologiyasi dastlab qaysi davlatda yaratilgan?",
+    "javoblar": ["AQSH", "Janubiy Koreya", "Xitoy", "Yaponiya"],
+    "javobi": "3"
+  },
+  {
+    "savol": "Inson ko'zi ilg'ay olmaydigan, lekin kompyuter 'tushunadigan' rasm ichiga ma'lumot yashirish fani nima deyiladi?",
+    "javoblar": ["Kriptografiya", "Steganografiya", "Blokcheyn", "Kiberxavfsizlik"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Dunyo bo'yicha eng mashhur 'Open Source' (kodlari ochiq) operatsion tizim yadrosi qaysi?",
+    "javoblar": ["Windows", "Android", "Linux", "iOS"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Dasturlashdagi xatolarni topish va ularni tuzatish jarayoni nima deb ataladi?",
+    "javoblar": ["Refaktoring", "Kompilyatsiya", "Debug (Debagging)", "Render"],
+    "javobi": "2"
+  },
+  {
+    "savol": "1 Petabayt necha Terabaytga teng?",
+    "javoblar": ["100 TB", "1024 TB", "512 TB", "2048 TB"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Kompyuter ekranidagi ranglarni ifodalovchi RGB modeli qaysi ranglardan tashkil topgan?",
+    "javoblar": ["Qizil, Yashil, Moviy", "Sariq, Yashil, Ko'k", "Oq, Qora, Qizil", "Qizil, Sariq, Moviy"],
+    "javobi": "0"
+  },
+  {
+    "savol": "Bulutli saqlash (Cloud Storage) xizmatiga qaysi biri kirmaydi?",
+    "javoblar": ["Google Drive", "Dropbox", "VLC Player", "iCloud"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Ijtimoiy muhandislik (Social Engineering) bu — ...",
+    "javoblar": ["Robotlarni boshqarish", "Psixologik aldov yo'li bilan ma'lumotlarni o'g'irlash", "Dastur kodini optimallashtirish", "Serverlarni sovutish tizimi"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Excelda formulalar doim qaysi belgi bilan boshlanadi?",
+    "javoblar": ["#", "$", "@", "="],
+    "javobi": "3"
+  },
+  {
+    "savol": "Qaysi qurilma ham kiritish, ham chiqarish qurilmasi vazifasini bajaradi?",
+    "javoblar": ["Sichqoncha", "Monitor (Sensorli)", "Printer", "Klaviatura"],
+    "javobi": "1"
+  },
+  {
+    "savol": "PDF (Portable Document Format) fayl kengaytmasi qaysi kompaniya tomonidan yaratilgan?",
+    "javoblar": ["Microsoft", "Google", "Adobe", "Apple"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Sun'iy intellekt olamidagi mashhur 'Tyuring testi' nima uchun kerak?",
+    "javoblar": ["Internet tezligini o'lchash", "Mashina fikrlay olishini aniqlash", "Viruslarni yo'q qilish", "Parollarni buzish"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Siri, Alexa va Google Assistant qaysi texnologiya asosida ishlaydi?",
+    "javoblar": ["Blockchain", "Virtual Reality", "Artificial Intelligence (AI)", "Augmented Reality"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Brauzerning 'Incognito' (maxfiy) rejimi nima qilmaydi?",
+    "javoblar": ["Kukilarni o'chiradi", "Sizni internetda butunlay ko'rinmas qiladi", "Tarixni saqlamaydi", "Kirilgan parollarni eslab qolmaydi"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Blokcheyn (Blockchain) texnologiyasining asosiy xususiyati nima?",
+    "javoblar": ["Ma'lumotlarning markazlashmaganligi va xavfsizligi", "Rasmlarni tez yuklash", "Ovozli xabarlar yuborish", "Video montaj qilish"],
+    "javobi": "0"
+  },
+  {
+    "savol": "Dasturlashda 'Loop' so'zining ma'nosi nima?",
+    "javoblar": ["Xatolik", "Takrorlanish (Sikl)", "O'zgaruvchi", "Shart operatori"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Eng birinchi yaratilgan brauzer nomi nima?",
+    "javoblar": ["Google Chrome", "Internet Explorer", "WorldWideWeb (Nexus)", "Opera"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Phishing (Fishig) nima?",
+    "javoblar": ["Baliq ovi haqidagi o'yin", "Soxta saytlar orqali login-parollarni o'g'irlash", "Klaviatura tugmalarini tozalash", "Wi-Fi tezligini oshirish"],
+    "javobi": "1"
+  }
+
+]

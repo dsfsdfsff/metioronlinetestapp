@@ -1,0 +1,202 @@
+[
+  {
+    "savol": "Agar uchburchakning ikki burchagi 60 va 70 daraja bo'lsa, uchinchi burchagini toping.",
+    "javoblar": ["40", "50", "60", "70"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Doiraning yuzini hisoblash formulasi qaysi?",
+    "javoblar": ["S = 2πr", "S = πr²", "S = πd", "S = 2πr²"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Eng kichik tub sonni ko'rsating.",
+    "javoblar": ["0", "1", "2", "3"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Kvadratning tomoni 5 sm bo'lsa, uning perimetri qanchaga teng?",
+    "javoblar": ["20 sm", "25 sm", "10 sm", "15 sm"],
+    "javobi": "0"
+  },
+  {
+    "savol": "Faqat juft sonlardan iborat qatorni toping.",
+    "javoblar": ["2, 4, 7, 8", "10, 22, 34, 46", "0, 1, 2, 3", "5, 10, 15, 20"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Sonning 25 foizi (25%) uni necha qismga bo'lish bilan teng?",
+    "javoblar": ["Ikkiga", "Uchga", "To'rtga", "Beshga"],
+    "javobi": "2"
+  },
+  {
+    "savol": "To'g'ri burchakli uchburchakning tomonlari orasidagi bog'liqlikni ifodalovchi teorema nomi nima?",
+    "javoblar": ["Fales teoremasi", "Pifagor teoremasi", "Viyet teoremasi", "Nyuton qonuni"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Manfiy sonning kvadrati doimo qanday son bo'ladi?",
+    "javoblar": ["Manfiy", "Musbat", "Nol", "Tub son"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Qaysi songa bo'lish matematikada mumkin emas deb hisoblanadi?",
+    "javoblar": ["1 ga", "0 ga", "-1 ga", "100 ga"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Sutkaning 1/4 qismi necha soatga teng?",
+    "javoblar": ["4 soat", "6 soat", "8 soat", "12 soat"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Kubning nechta qirrasi (edge) bor?",
+    "javoblar": ["6 ta", "8 ta", "10 ta", "12 ta"],
+    "javobi": "3"
+  },
+  {
+    "savol": "Algebra fanining asoschisi deb kim tan olingan?",
+    "javoblar": ["Pifagor", "Al-Xorazmiy", "Beruniy", "Arximed"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Rombning hamma tomonlari o'zaro qanday bo'ladi?",
+    "javoblar": ["Har xil", "Faqat qarama-qarshilari teng", "Hamma tomoni teng", "Faqat asosi teng"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Nolning ixtiyoriy musbat darajasi nechaga teng?",
+    "javoblar": ["1", "0", "Noma'lum", "Cheksiz"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Sonning moduli (masalan |-5|) har doim qanday bo'ladi?",
+    "javoblar": ["Manfiy", "Musbat yoki nol", "Faqat butun", "Faqat toq"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Yoyiq burchak necha darajaga teng?",
+    "javoblar": ["90°", "180°", "270°", "360°"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Ikki xonali eng katta son bilan eng kichik sonning ayirmasini toping.",
+    "javoblar": ["88", "89", "90", "99"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Bir xil maxrajli kasrlarni qo'shganda ularning maxraji nima qilinadi?",
+    "javoblar": ["Qo'shiladi", "Ko'paytiriladi", "O'zgarishsiz qoladi", "Ayiriladi"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Parallelogrammning yuzi qaysi formula bilan topiladi?",
+    "javoblar": ["S = a * h", "S = a + b", "S = a²", "S = (a*b)/2"],
+    "javobi": "0"
+  },
+  {
+    "savol": "Matematikada 'π' (pi) sonining taqribiy qiymati qancha?",
+    "javoblar": ["2.14", "3.14", "4.14", "1.14"],
+    "javobi": "1"
+  },
+  {
+    "savol": "15 ni 3 ga bo'lganda natija necha bo'ladi?",
+    "javoblar": ["3", "5", "6", "12"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Kvadratning nechta tomoni bor?",
+    "javoblar": ["3 ta", "4 ta", "5 ta", "6 ta"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Eng katta bir xonali sonni toping.",
+    "javoblar": ["1", "9", "10", "99"],
+    "javobi": "1"
+  },
+  {
+    "savol": "7 ko'paytirilgan 8 nechaga teng?",
+    "javoblar": ["48", "54", "56", "64"],
+    "javobi": "2"
+  },
+  {
+    "savol": "To'g'ri burchak necha darajaga teng?",
+    "javoblar": ["45°", "90°", "180°", "360°"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Sonning yarmini topish uchun uni nechaga bo'lish kerak?",
+    "javoblar": ["2 ga", "3 ga", "4 ga", "5 ga"],
+    "javobi": "0"
+  },
+  {
+    "savol": "100 dan keyingi birinchi toq son qaysi?",
+    "javoblar": ["100", "101", "102", "103"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Uchburchakning tomonlari 3 sm, 4 sm va 5 sm. Uning perimetri qancha?",
+    "javoblar": ["7 sm", "9 sm", "12 sm", "15 sm"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Qaysi amal birinchi bajariladi: 10 + 5 * 2 ?",
+    "javoblar": ["Qo'shish", "Ko'paytirish", "Ikkalasi bir xil", "Chapdan o'ngga"],
+    "javobi": "1"
+  },
+  {
+    "savol": "9 sonining kvadrati (9²) nechaga teng?",
+    "javoblar": ["18", "72", "81", "90"],
+    "javobi": "2"
+  },
+  {
+    "savol": "1 soatda necha daqiqa bor?",
+    "javoblar": ["30", "60", "90", "100"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Doira shaklidagi narsani ko'rsating.",
+    "javoblar": ["Kitob", "G'ildirak", "Uy", "Tuxum"],
+    "javobi": "1"
+  },
+  {
+    "savol": "50 ning yarmi nechaga teng?",
+    "javoblar": ["20", "25", "30", "15"],
+    "javobi": "1"
+  },
+  {
+    "savol": "20 sonidan oldin keladigan sonni toping.",
+    "javoblar": ["18", "19", "21", "22"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Nolga ixtiyoriy sonni ko'paytirsak natija necha bo'ladi?",
+    "javoblar": ["O'sha son", "1", "0", "Noma'lum"],
+    "javobi": "2"
+  },
+  {
+    "savol": "To'rtburchakning hamma burchaklari yig'indisi necha daraja?",
+    "javoblar": ["90°", "180°", "270°", "360°"],
+    "javobi": "3"
+  },
+  {
+    "savol": "1 metrdan necha santimetr bor?",
+    "javoblar": ["10", "100", "1000", "50"],
+    "javobi": "1"
+  },
+  {
+    "savol": "Sonning 100 foizi (100%) deganda nima tushuniladi?",
+    "javoblar": ["Yarmi", "Choragi", "O'zi (butuni)", "Ikki baravari"],
+    "javobi": "2"
+  },
+  {
+    "savol": "Qaysi son 5 ga qoldiqsiz bo'linadi?",
+    "javoblar": ["12", "24", "35", "41"],
+    "javobi": "2"
+  },
+  {
+    "savol": "8 qo'shilgan 7 nechaga teng?",
+    "javoblar": ["13", "14", "15", "16"],
+    "javobi": "2"
+  }
+]
